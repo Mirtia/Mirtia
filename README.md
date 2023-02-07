@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mirtoseri@gmail.com**
 
-- 📄 Know about my experiences (Resume)[https://drive.google.com/file/d/1Ghc7sIqoMzV2rFjL6tYN1nTUnF6TDqMN/view?usp=share_link](https://drive.google.com/file/d/1Ghc7sIqoMzV2rFjL6tYN1nTUnF6TDqMN/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ghc7sIqoMzV2rFjL6tYN1nTUnF6TDqMN/view?usp=share_link)
 
 - ⚡ Fun fact **E**
 
