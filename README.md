@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Myrto</h1>
+<h1 align="center">Hallo, I'm Mirto</h1>
 <h3 align="center">CS Student from Greece</h3>
 
 - 🌱 I’m currently learning **Cryptography and Rust**
