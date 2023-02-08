@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ghc7sIqoMzV2rFjL6tYN1nTUnF6TDqMN/view?usp=share_link)
 
-- ⚡ Fun fact *Four times five is twelve, and four times six is thirteen and four times seven is--oh dear! I shall never get to twenty at that rate!*
+- 🍵 *"Four times five is twelve, and four times six is thirteen and four times seven is--oh dear! I shall never get to twenty at that rate!"*
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
