@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **mirtoseri@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZoTZM9nmBewGbhZX7_XG34I49soEzvPK/view?usp=share_link)
-
 - 🍵 *"Four times five is twelve, and four times six is thirteen and four times seven is--oh dear! I shall never get to twenty at that rate!"*
 
 <h3 align="left">Programming Languages</h3>
