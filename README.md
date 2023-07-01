@@ -1,7 +1,7 @@
 <h1 align="center">Hallo, I'm Mirto</h1>
 <h3 align="center">CS Student from Greece</h3>
 
-- 🌱 I’m currently learning **Cryptography and Rust**
+- 🌱 I’m currently learning **Cryptography, C++** and trying to get familiar with **Computer Vision** and **ML** concepts.
 
 - 📫 How to reach me **mirtoseri@gmail.com**
 
