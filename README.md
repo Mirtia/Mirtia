@@ -7,7 +7,7 @@
 
 - 🍵 *"Four times five is twelve, and four times six is thirteen and four times seven is--oh dear! I shall never get to twenty at that rate!"*
 
-- [Portfolio / Webpage](git@github.com:Mirtia/mirtia.github.io.git)
+- [Portfolio](git@github.com:Mirtia/mirtia.github.io.git)
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
