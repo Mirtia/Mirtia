@@ -40,6 +40,6 @@
 <p align="left"> 
 </p>
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirtia&hide=javascript,css,scss,html&theme=tokyonight)
+ <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirtia&hide=javascript,css,scss,html&theme=tokyonight)-->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirtia&show_icons=true&locale=en&layout=compact" alt="mirtia" /></p> -->
