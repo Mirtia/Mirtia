@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **mirtoseri@gmail.com**
 
+- 📖 My [blogs](mirtia.github.io)
+
 - 🐱👧🎩 *"Four times five is twelve, and four times six is thirteen and four times seven is--oh dear! I shall never get to twenty at that rate!"*
 
 <h3 align="left">Languages and Tools</h3>
