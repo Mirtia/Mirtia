@@ -1,5 +1,5 @@
 <h1 align="center">Moi, I'm Myrto</h1>
-<h3 align="center">CS Graduate, current MSc student in HCAI, from Greece</h3>
+<h3 align="center">CS Graduate, current MSc student in Computer Science, from Greece</h3>
 
 - 🌱 I’m currently trying diving deeper into various concepts, and also some reversing.
 
